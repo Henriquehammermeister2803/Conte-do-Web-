@@ -1,0 +1,25 @@
+html,body{
+    margin:0;
+    padding:0;
+
+    background-color: black;
+    color: white;
+}
+
+header{
+    border-bottom:3px #551A8B solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+nav{
+    display: flex;
+    gap:24px
+}
+
+a{
+    color: white;
+    font-size:22px;
+    text-decoration:none;
+}
